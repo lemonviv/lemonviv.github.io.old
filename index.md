@@ -1,8 +1,6 @@
 ## Welcome to Yuncheng Wu's Homepage
 
-You can use the [editor on GitHub](https://github.com/lemonviv/lemonviv.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am currently a research fellow in School of Computing (SoC), National University of Singapore (NUS).  I am part of the Database Systems Research Group, working with Prof. Beng Chin Ooi and Prof. Xiaokui Xiao. I obtained my PhD degree in Computer Science from Renmin University of China in 2018, under the supervision of Prof. Hong Chen. My research interests include federated learning, data security and privacy.
 
 ### Markdown
 
