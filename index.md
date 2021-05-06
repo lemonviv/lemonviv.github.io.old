@@ -1,34 +1,36 @@
 ## Welcome to Yuncheng Wu's Homepage
 
-I am currently a research fellow in School of Computing (SoC), National University of Singapore (NUS). I am part of the [Database Systems Research Group](https://www.comp.nus.edu.sg/~dbsystem/), working with [Prof. Beng Chin Ooi](https://www.comp.nus.edu.sg/~ooibc/) and [Prof. Xiaokui Xiao](https://www.comp.nus.edu.sg/~xiaoxk/). I obtained my PhD degree in Computer Science from Renmin University of China in 2018, under the supervision of [Prof. Hong Chen](http://info.ruc.edu.cn/academic_professor.php?teacher_id=56). I was a visiting PhD student in Simon Fraser University (SFU), supervised by [Prof. Ke Wang](https://www.cs.sfu.ca/~wangk/). My research interests include federated learning, data security and privacy.
+I am currently a research fellow in School of Computing (SoC), National University of Singapore (NUS). I am part of the [Database Systems Research Group](https://www.comp.nus.edu.sg/~dbsystem/), working with [Prof. Beng Chin Ooi](https://www.comp.nus.edu.sg/~ooibc/) and [Prof. Xiaokui Xiao](https://www.comp.nus.edu.sg/~xiaoxk/). I obtained my PhD degree in Computer Science from Renmin University of China (RUC) in 2018, under the supervision of [Prof. Hong Chen](http://info.ruc.edu.cn/academic_professor.php?teacher_id=56). I was a visiting PhD student in Simon Fraser University (SFU), supervised by [Prof. Ke Wang](https://www.cs.sfu.ca/~wangk/). My research interests include federated learning, data security and privacy.
 
 ### Selected Publications
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+##Selected Conference Publications (* represents corresponding author)
+- Xinjian Luo, Yuncheng Wu*, Xiaokui Xiao, Beng Chin Ooi. [Feature inference attack on model predictions in vertical federated learning](https://arxiv.org/pdf/2010.10152.pdf). In Proceedings of the IEEE International Conference on Data Engineering (ICDE), 2021.
+- Pan Zhou, Qian Lin, Dumitrel Loghin, Beng Chin Ooi, Yuncheng Wu, Hongfang Yu. [Communication-efficient decentralized machine learning over heterogeneous networks](https://arxiv.org/pdf/2009.05766.pdf). In Proceedings of the IEEE International Conference on Data Engineering (ICDE), 2021.
+- Yuncheng Wu, Shaofeng Cai, Xiaokui Xiao, Gang Chen, Beng Chin Ooi. [Privacy preserving vertical federated learning for tree-based models](http://www.vldb.org/pvldb/vol13/p2090-wu.pdf). In Proceedings of the VLDB Endowment (PVLDB), 2020: 13(11): 2090-2103.
+- Wenjuan Liang, Hong Chen, Yuncheng Wu, Cuiping Li. [Differentially private frequent itemset mining against incremental updates](https://link.springer.com/chapter/10.1007/978-3-030-41579-2_38). In International Conference on Information and Communications Security (ICICS), 2019: 649-667.
+- Ruoyang Guo, Bo Qin, Yuncheng Wu, Ruixuan Liu, Hong Chen, Cuiping Li. [MixGeo: efficient secure range queries on encrypted dense spatial data in the cloud](https://dl.acm.org/doi/10.1145/3326285.3329064). In IEEE/ACM International Symposium on Quality of Service (IWQoS), 2019: 29:1-29:10.
+- Yuncheng Wu, Ke Wang, Zhilin Zhang, Weipeng Lin, Hong Chen, Cuiping Li. [Privacy preserving group nearest neighbor search](https://openproceedings.org/2018/conf/edbt/paper-103.pdf). In International Conference on Extending Database Technology (EDBT), 2018: 277-288.
+- Ying Liu, Hui Peng, Yuncheng Wu, Juru Zeng, Hong Chen, Ke Wang, Weiling Lai, Cuiping Li. [Secure data aggregation with integrity verification in wireless sensor networks](https://link.springer.com/chapter/10.1007/978-3-319-91452-7_46). In International Conference on Database Systems for Advanced Applications (DASFAA), 2018: 717-733.
+- Yao Wu, Yuncheng Wu, Juru Zeng, Wenjuan Liang, Hong Chen, Cuiping Li, X. Zhang. [AXE: Objects Search in Mobile Volunteered Service](https://link.springer.com/chapter/10.1007/978-3-030-00916-8_8). In International Conference on Collaborative Computing: Networking, Applications and Worksharing (CollaborateCom), 2017.
+- Yao Wu, Juru Zeng, Yuncheng Wu, Hong Chen, Cuiping Li. [PIE: a personalized incentive for location-aware mobile crowd sensing](https://ieeexplore.ieee.org/document/8024653). In IEEE Symposium on Computers and Communications (ISCC), 2017: 981-986
+- Yuncheng Wu, Yao Wu, Hui Peng, Juru Zeng, Hong Chen, Cuiping Li. [Differentially private density estimation via Gaussian mixtures model](https://ieeexplore.ieee.org/document/7590445). In IEEE/ACM International Symposium on Quality of Service (IWQoS), 2016: 1-6.
+- Yuncheng Wu, Juru Zeng, Hong Chen, Yao Wu, Wenjuan Liang, Hui Peng, Cuiping Li. [DPListCF: a differentially private approach for listwise collaborative filtering](https://ieeexplore.ieee.org/document/7543856). In IEEE Symposium on Computers and Communications (ISCC), 2016: 932-937.
+- Yao Wu, Yuncheng Wu, Hui Peng, Hong Chen, Cuiping Li. [MagiCrowd: a crowd based incentive for location-aware crowd sensing](https://ieeexplore.ieee.org/document/7565026). In IEEE Wireless Communications and Networking Conference (WCNC), 2016: 1-6.
+- Juru Zeng, Yuncheng Wu, Yao Wu, Hong Chen, Cuiping Li, S. Wang. [Energy-efficient and privacy-preserving range query in participatory sensing](https://ieeexplore.ieee.org/document/7847034). In IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom), 2016: 876-883.
+- Hui Peng, Xiaoying Zhang, Hong Chen, Yuncheng Wu, Yao Wu, Juru Zeng. [Enable privacy preservation and result verification for top-k query in two-tired sensor networks](https://ieeexplore.ieee.org/document/7345327). In IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom), 2015: 555-562.
+  
+##Selected Journal Publications
+- Yuncheng Wu, Ke Wang, Ruoyang Guo, Zhilin Zhang, Dan Zhao, Hong Chen, Cuiping Li. [Enhanced privacy preserving group nearest neighbor search](https://ieeexplore.ieee.org/document/8770158). In IEEE Transactions on Knowledge and Data Engineering (TKDE), 2021: 33(2), 459-473.
+- Wenjuan Liang, Hong Chen, Ruixuan Liu, Yuncheng Wu, Cuiping Li. [A Pufferfish privacy mechanism for monitoring web browsing behavior under temporal correlations](https://www.sciencedirect.com/science/article/pii/S0167404820300389). In Computers & Security, 2020: 92, 101754.
+- Wenjuan Liang, Hong Chen, Yuncheng Wu, Dan Zhao, Cuiping Li. Differential privacy under continual observation. In Journal of Software, 2020, 31(6): 1761-1785.
+- Yuncheng Wu, Hong Chen, Suyun Zhao, Wenjuan Liang, Yao Wu, Cuiping Li, Xiaoying Zhang. Differentially private trajectory protection based on spatial and temporal correlation. In Chinese Journal of Computers, 2018, 41(2): 309-322.
+- Hui Peng, Hong Chen, Xiaoying Zhang, Juru Zeng, Yuncheng Wu, Shan Wang. Privacy-preserving k-NN query protocol for two-tiered wireless sensor networks. In Journal of Software, 2016, 39(5): 872-892.
 
 ### Patents
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lemonviv/lemonviv.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- Yuncheng Wu, Wenxiang Wang, Le Zhang, and Li Lin. Data processing method and devices. Chinese Patent. Authorized Announcement No.: CN 110162981 B.
+- Hong Chen, Cuiping Li, Yuncheng Wu, Ruoyang Guo, Dan Zhao, Wenjuan Liang, and Yao Wu. Privacy-preserving group nearest neighbor query method and devices. Chinese Patent. Authorized Announcement No.: CN 109688545 B.
 
 ### Professional Services
 
