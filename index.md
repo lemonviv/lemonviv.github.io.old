@@ -4,7 +4,7 @@ I am currently a research fellow in School of Computing (SoC), National Universi
 
 ### Selected Publications
 
-##Selected Conference Publications (* represents corresponding author)
+## Selected Conference Publications (* represents corresponding author)
 - Xinjian Luo, Yuncheng Wu*, Xiaokui Xiao, Beng Chin Ooi. [Feature inference attack on model predictions in vertical federated learning](https://arxiv.org/pdf/2010.10152.pdf). In Proceedings of the IEEE International Conference on Data Engineering (ICDE), 2021.
 - Pan Zhou, Qian Lin, Dumitrel Loghin, Beng Chin Ooi, Yuncheng Wu, Hongfang Yu. [Communication-efficient decentralized machine learning over heterogeneous networks](https://arxiv.org/pdf/2009.05766.pdf). In Proceedings of the IEEE International Conference on Data Engineering (ICDE), 2021.
 - Yuncheng Wu, Shaofeng Cai, Xiaokui Xiao, Gang Chen, Beng Chin Ooi. [Privacy preserving vertical federated learning for tree-based models](http://www.vldb.org/pvldb/vol13/p2090-wu.pdf). In Proceedings of the VLDB Endowment (PVLDB), 2020: 13(11): 2090-2103.
@@ -20,7 +20,7 @@ I am currently a research fellow in School of Computing (SoC), National Universi
 - Juru Zeng, Yuncheng Wu, Yao Wu, Hong Chen, Cuiping Li, S. Wang. [Energy-efficient and privacy-preserving range query in participatory sensing](https://ieeexplore.ieee.org/document/7847034). In IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom), 2016: 876-883.
 - Hui Peng, Xiaoying Zhang, Hong Chen, Yuncheng Wu, Yao Wu, Juru Zeng. [Enable privacy preservation and result verification for top-k query in two-tired sensor networks](https://ieeexplore.ieee.org/document/7345327). In IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom), 2015: 555-562.
   
-##Selected Journal Publications
+## Selected Journal Publications
 - Yuncheng Wu, Ke Wang, Ruoyang Guo, Zhilin Zhang, Dan Zhao, Hong Chen, Cuiping Li. [Enhanced privacy preserving group nearest neighbor search](https://ieeexplore.ieee.org/document/8770158). In IEEE Transactions on Knowledge and Data Engineering (TKDE), 2021: 33(2), 459-473.
 - Wenjuan Liang, Hong Chen, Ruixuan Liu, Yuncheng Wu, Cuiping Li. [A Pufferfish privacy mechanism for monitoring web browsing behavior under temporal correlations](https://www.sciencedirect.com/science/article/pii/S0167404820300389). In Computers & Security, 2020: 92, 101754.
 - Wenjuan Liang, Hong Chen, Yuncheng Wu, Dan Zhao, Cuiping Li. Differential privacy under continual observation. In Journal of Software, 2020, 31(6): 1761-1785.
@@ -32,10 +32,15 @@ I am currently a research fellow in School of Computing (SoC), National Universi
 - Yuncheng Wu, Wenxiang Wang, Le Zhang, and Li Lin. Data processing method and devices. Chinese Patent. Authorized Announcement No.: CN 110162981 B.
 - Hong Chen, Cuiping Li, Yuncheng Wu, Ruoyang Guo, Dan Zhao, Wenjuan Liang, and Yao Wu. Privacy-preserving group nearest neighbor query method and devices. Chinese Patent. Authorized Announcement No.: CN 109688545 B.
 
+### Teaching
+
+- Teaching Assistant of CS6203 in SoC, NUS
+- Counselor Assisitant of Software Engineering Class 4, SWUST
+
 ### Professional Services
 
-Program committee member of VLDB 2022.
-Invited reviewer for IEEE Transactions on Knowledge and Data Engineering (TKDE).
-Invited reviewer for ACM Transactions on Data Science (TDS)
-Invited reviewer for Chinese Journal of Computers (CJC)
-External reviewer for VLDB, EDBT, ICDCS, CIKM, DASFAA, WAIM, NDBC, BigData
+- Program committee member of VLDB 2022.
+- Invited reviewer for IEEE Transactions on Knowledge and Data Engineering (TKDE).
+- Invited reviewer for ACM Transactions on Data Science (TDS)
+- Invited reviewer for Chinese Journal of Computers (CJC)
+- External reviewer for VLDB, EDBT, ICDCS, CIKM, DASFAA, WAIM, NDBC, BigData
