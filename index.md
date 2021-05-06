@@ -1,5 +1,6 @@
 
-# Hi, Welcome to my homepage! <img align="right;" src="photo.png" width="200">
+# Hi, Welcome to my homepage! 
+[comment]: <img align="right;" src="photo.png" width="300">
 
 I am currently a research fellow in School of Computing (SoC), National University of Singapore (NUS). I am part of the [Database Systems Research Group](https://www.comp.nus.edu.sg/~dbsystem/), working with [Prof. Beng Chin Ooi](https://www.comp.nus.edu.sg/~ooibc/) and [Prof. Xiaokui Xiao](https://www.comp.nus.edu.sg/~xiaoxk/). My research interests include federated learning, data security and privacy.
 
