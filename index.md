@@ -44,6 +44,7 @@ I obtained my PhD degree in Computer Science from Renmin University of China (RU
 ## Professional Services
 
 - Program committee member of VLDB 2022.
+- Invited reviewer for Big Data Research.
 - Invited reviewer for IEEE Transactions on Knowledge and Data Engineering (TKDE).
 - Invited reviewer for ACM Transactions on Data Science (TDS)
 - Invited reviewer for Chinese Journal of Computers (CJC)
