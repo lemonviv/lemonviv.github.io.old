@@ -44,16 +44,14 @@ I obtained my PhD degree in Computer Science from Renmin University of China (RU
 
 ## Professional Services
 
-- Program committee member of VLDB 2022.
+- Program committee member of VLDB 2022, ICDE 2022.
 - Invited reviewer for Big Data Research.
 - Invited reviewer for IEEE Transactions on Knowledge and Data Engineering (TKDE).
 - Invited reviewer for ACM Transactions on Data Science (TDS)
 - Invited reviewer for Chinese Journal of Computers (CJC)
 - External reviewer for VLDB, EDBT, ICDCS, CIKM, DASFAA, WAIM, NDBC, BigData
 
-## Awards
-- First-class Scholarship (RUC): 2014
-- Outstanding Graduate Student (NJUST): 2013
-- First-class Scholarship (NJUST): 2010
-- Outstanding Graduate Student (SWUST): 2010
-- First-class Scholarship (SWUST): 2007, 2008
+## Invited Talks
+
+-- Yuncheng Wu, "Secure and interpretable vertical federated learning", invited talk at the KDD'21 Trust Day, Singapore, Auguest 2021.
+-- Yuncheng Wu, "Privacy-preserving and incentive-aware vertical federated learning", invited talk at the SBIP seminar, Singapore, June 2021.
