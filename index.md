@@ -53,5 +53,5 @@ I obtained my PhD degree in Computer Science from Renmin University of China (RU
 
 ## Invited Talks
 
--- Yuncheng Wu, "Secure and interpretable vertical federated learning", invited talk at the KDD'21 Trust Day, Singapore, Auguest 2021.
--- Yuncheng Wu, "Privacy-preserving and incentive-aware vertical federated learning", invited talk at the SBIP seminar, Singapore, June 2021.
+- Yuncheng Wu, "Secure and interpretable vertical federated learning", invited talk at the KDD'21 Trust Day, Singapore, Auguest 2021.
+- Yuncheng Wu, "Privacy-preserving and incentive-aware vertical federated learning", invited talk at the SBIP seminar, Singapore, June 2021.
