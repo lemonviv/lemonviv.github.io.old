@@ -9,6 +9,7 @@ I obtained my PhD degree in Computer Science from Renmin University of China (RU
 ## Selected Publications
 
 ### Selected Conference Publications (* represents corresponding author)
+- Xinjian Luo, Xiaokui Xiao, Yuncheng Wu, Juncheng Liu, Beng Chin Ooi. [A Fusion-Denoising Attack on InstaHide with Data Augmentation]. In AAAI Conference on Artificial Intelligence (AAAI), 2022. (To appear).
 - Xinjian Luo, Yuncheng Wu*, Xiaokui Xiao, Beng Chin Ooi. [Feature inference attack on model predictions in vertical federated learning](https://arxiv.org/pdf/2010.10152.pdf). In Proceedings of the IEEE International Conference on Data Engineering (ICDE), 2021.
 - Pan Zhou, Qian Lin, Dumitrel Loghin, Beng Chin Ooi, Yuncheng Wu, Hongfang Yu. [Communication-efficient decentralized machine learning over heterogeneous networks](https://arxiv.org/pdf/2009.05766.pdf). In Proceedings of the IEEE International Conference on Data Engineering (ICDE), 2021.
 - Yuncheng Wu, Shaofeng Cai, Xiaokui Xiao, Gang Chen, Beng Chin Ooi. [Privacy preserving vertical federated learning for tree-based models](http://www.vldb.org/pvldb/vol13/p2090-wu.pdf). In Proceedings of the VLDB Endowment (PVLDB), 2020: 13(11): 2090-2103.
