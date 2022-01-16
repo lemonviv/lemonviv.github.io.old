@@ -2,14 +2,14 @@
 # Hi, Welcome to Yuncheng Wu's homepage! 
 
 <div style="clear: both;">
-  <div style="float: right; margin-right 1em;">
-    <img src="wuyuncheng-photo.jpg" alt="" width=120>
+  <div style="float: right; margin-right 2em;">
+    <img src="wuyuncheng-photo.jpg" alt="" width=100>
   </div>
 </div>
 
-I am currently a research assistant professor in School of Computing (SoC), National University of Singapore (NUS). I am working in the Singapore Blockchain Innovation Programme (SBIP). I am part of the [Database Systems Research Group](https://www.comp.nus.edu.sg/~dbsystem/), working with [Prof. Beng Chin Ooi](https://www.comp.nus.edu.sg/~ooibc/) and [Prof. Xiaokui Xiao](https://www.comp.nus.edu.sg/~xiaoxk/). My research interests include federated learning, data security and privacy.
+I am currently a research assistant professor in School of Computing (SoC), National University of Singapore (NUS). I am working in the Singapore Blockchain Innovation Programme (SBIP). I am part of the [Database Systems Research Group](https://www.comp.nus.edu.sg/~dbsystem/), working with [Prof. Beng Chin Ooi](https://www.comp.nus.edu.sg/~ooibc/) and [Prof. Xiaokui Xiao](https://www.comp.nus.edu.sg/~xiaoxk/). My research interests include federated learning, data security and privacy, decentralized digital identiy.
 
-I obtained my PhD degree in Computer Science from Renmin University of China (RUC) in 2018, under the supervision of [Prof. Hong Chen](http://info.ruc.edu.cn/academic_professor.php?teacher_id=56). I was a visiting PhD student in Simon Fraser University (SFU), supervised by [Prof. Ke Wang](https://www.cs.sfu.ca/~wangk/). I received my Master's degree and Bachelor's degree from Nanjing University of Science and Technology (NJUST), advised by [Prof. Yongli Wang](https://cs.njust.edu.cn/e4/15/c1730a189461/page.htm), and Southwest University of Science and Technology (SWUST), respectively. I also worked in Ant Financial as a senior developer and 724 Research Institute of China Shipbuilding Industry Corporation as a software engineer. 
+I obtained my PhD degree in Computer Science from Renmin University of China (RUC) in 2018, under the supervision of [Prof. Hong Chen](http://info.ruc.edu.cn/academic_professor.php?teacher_id=56). I was a visiting PhD student in Simon Fraser University (SFU), supervised by [Prof. Ke Wang](https://www.cs.sfu.ca/~wangk/). I received my Master's degree from Nanjing University of Science and Technology (NJUST), advised by [Prof. Yongli Wang](https://cs.njust.edu.cn/e4/15/c1730a189461/page.htm), and Bachelor's degree from Southwest University of Science and Technology (SWUST). I also worked in Ant Financial as a senior developer and 724 Research Institute of China Shipbuilding Industry Corporation as a software engineer. 
 
 ## Selected Publications
 
