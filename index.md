@@ -1,6 +1,23 @@
 
 # Hi, Welcome to Yuncheng Wu's homepage! 
-[comment]: <img align="right;" src="photo.png" width="300">
+
+## Contact
+
+<div style="clear: both;">
+  <div style="float: right; margin-right 1em;">
+    <img src="photo.png" alt="" width=300>
+  </div>
+  <div>
+    COM 1, #01-07 <br>
+    School of Computing <br>
+    National University of Singapore <br>
+    13 Computing Drive <br>
+    Singapore 117417 <br>
+  </div>
+</div>
+
+
+## Bio
 
 I am currently a research assistant professor in School of Computing (SoC), National University of Singapore (NUS). I am working in the Singapore Blockchain Innovation Programme (SBIP). I am part of the [Database Systems Research Group](https://www.comp.nus.edu.sg/~dbsystem/), working with [Prof. Beng Chin Ooi](https://www.comp.nus.edu.sg/~ooibc/) and [Prof. Xiaokui Xiao](https://www.comp.nus.edu.sg/~xiaoxk/). My research interests include federated learning, data security and privacy.
 
