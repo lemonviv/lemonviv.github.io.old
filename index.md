@@ -12,7 +12,8 @@
     School of Computing <br>
     National University of Singapore <br>
     13 Computing Drive <br>
-    Singapore 117417 
+    Singapore 117417 <br>
+    Email: dcswuyu[at]nus[dot]edu[dot]sg
   </div>
 </div>
 
