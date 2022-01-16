@@ -10,7 +10,7 @@
     School of Computing <br>
     National University of Singapore <br>
     13 Computing Drive <br>
-    Singapore 117417 <br>
+    Singapore 117417
   </div>
 </div>
 
