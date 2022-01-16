@@ -1,8 +1,6 @@
 
 # Hi, Welcome to Yuncheng Wu's homepage! 
 
-## Contact
-
 <div style="clear: both;">
   <div style="float: right; margin-right 1em;">
     <img src="wuyuncheng-photo.jpg" alt="" width=120>
