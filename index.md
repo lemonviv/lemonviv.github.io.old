@@ -1,5 +1,7 @@
 
-# Hi, Welcome to Yuncheng Wu's homepage! 
+# Hi, Welcome to my homepage! 
+
+**Yuncheng Wu**
 
 <div style="clear: both;">
   <div style="float: right; margin-right 1em;">
@@ -10,10 +12,9 @@
     School of Computing <br>
     National University of Singapore <br>
     13 Computing Drive <br>
-    Singapore 117417
+    Singapore 117417 
   </div>
 </div>
-
 
 ## Bio
 
