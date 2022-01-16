@@ -5,7 +5,7 @@
 
 <div style="clear: both;">
   <div style="float: right; margin-right 1em;">
-    <img src="photo.png" alt="" width=300>
+    <img src="wuyuncheng-photo.jpg" alt="" width=120>
   </div>
   <div>
     COM 1, #01-07 <br>
