@@ -14,7 +14,7 @@ I obtained my PhD degree in Computer Science from Renmin University of China (RU
 ## Selected Publications
 
 ### Selected Conference Publications (* represents corresponding author)
-- Yuncheng Wu, Tien Tuan Anh Dinh, Guoyu Hu, Meihui Zhang, Yeow Meng Chee, Beng Chin Ooi. [Serverless Data Science - Are We There Yet? A Case Study of Model Serving]. In ACM Special Interest Group in Management Of Data (SIGMOD), 2022. (To appear).
+- Yuncheng Wu, Tien Tuan Anh Dinh, Guoyu Hu, Meihui Zhang, Yeow Meng Chee, Beng Chin Ooi. [Serverless Data Science - Are We There Yet? A Case Study of Model Serving](https://arxiv.org/pdf/2103.02958.pdf). In ACM Special Interest Group in Management Of Data (SIGMOD), 2022. (To appear).
 - Xinjian Luo, Xiaokui Xiao, Yuncheng Wu, Juncheng Liu, Beng Chin Ooi. [A Fusion-Denoising Attack on InstaHide with Data Augmentation](https://arxiv.org/pdf/2105.07754.pdf). In AAAI Conference on Artificial Intelligence (AAAI), 2022. (To appear).
 - Xinjian Luo, Yuncheng Wu*, Xiaokui Xiao, Beng Chin Ooi. [Feature inference attack on model predictions in vertical federated learning](https://arxiv.org/pdf/2010.10152.pdf). In Proceedings of the IEEE International Conference on Data Engineering (ICDE), 2021.
 - Pan Zhou, Qian Lin, Dumitrel Loghin, Beng Chin Ooi, Yuncheng Wu, Hongfang Yu. [Communication-efficient decentralized machine learning over heterogeneous networks](https://arxiv.org/pdf/2009.05766.pdf). In Proceedings of the IEEE International Conference on Data Engineering (ICDE), 2021.
