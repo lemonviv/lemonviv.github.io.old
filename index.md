@@ -32,6 +32,7 @@ I obtained my PhD degree in Computer Science from Renmin University of China (RU
 - Hui Peng, Xiaoying Zhang, Hong Chen, Yuncheng Wu, Yao Wu, Juru Zeng. [Enable privacy preservation and result verification for top-k query in two-tired sensor networks](https://ieeexplore.ieee.org/document/7345327). In IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom), 2015: 555-562.
   
 ### Selected Journal Publications
+- Ruoyang Guo, Bo Qin, Yuncheng Wu, Hong Chen, Cuiping Li. [Search geometric ranges efficiently as keywords over encrypted spatial data](https://www.sciencedirect.com/science/article/pii/S2667295222000101). In High-Confidence Computing, 2022.
 - Ruoyang Guo, Bo Qin, Yuncheng Wu, Ruixuan Liu, Hong Chen, Cuiping Li. [LuxGeo: Efficient and Secure Enhanced Geometric Range Queries](https://ieeexplore.ieee.org/document/9477110). In IEEE Transactions on Knowledge and Data Engineering (TKDE), 2021, Early Access. DOI: 10.1109/TKDE.2021.3093909.
 - Yuncheng Wu, Ke Wang, Ruoyang Guo, Zhilin Zhang, Dan Zhao, Hong Chen, Cuiping Li. [Enhanced privacy preserving group nearest neighbor search](https://ieeexplore.ieee.org/document/8770158). In IEEE Transactions on Knowledge and Data Engineering (TKDE), 2021: 33(2), 459-473.
 - Wenjuan Liang, Hong Chen, Ruixuan Liu, Yuncheng Wu, Cuiping Li. [A Pufferfish privacy mechanism for monitoring web browsing behavior under temporal correlations](https://www.sciencedirect.com/science/article/pii/S0167404820300389). In Computers & Security, 2020: 92, 101754.
@@ -51,6 +52,7 @@ I obtained my PhD degree in Computer Science from Renmin University of China (RU
 
 ## Professional Services
 
+- Program committee member of VLDB 2023, ICDE 2023, EDBT 2023.
 - Program committee member of VLDB 2022, ICDE 2022.
 - Invited reviewer for IEEE Network.
 - Invited reviewer for Big Data Research.
