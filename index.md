@@ -14,10 +14,10 @@ I obtained my PhD degree in Computer Science from Renmin University of China (RU
 ## Selected Publications
 
 ### Selected Conference Publications (* represents corresponding author)
-- Yuncheng Wu, Tien Tuan Anh Dinh, Guoyu Hu, Meihui Zhang, Yeow Meng Chee, Beng Chin Ooi. [Serverless Data Science - Are We There Yet? A Case Study of Model Serving](https://arxiv.org/pdf/2103.02958.pdf). In ACM Special Interest Group in Management Of Data (SIGMOD), 2022. (To appear).
-- Xinjian Luo, Xiaokui Xiao, Yuncheng Wu, Juncheng Liu, Beng Chin Ooi. [A Fusion-Denoising Attack on InstaHide with Data Augmentation](https://arxiv.org/pdf/2105.07754.pdf). In AAAI Conference on Artificial Intelligence (AAAI), 2022. (To appear).
-- Xinjian Luo, Yuncheng Wu*, Xiaokui Xiao, Beng Chin Ooi. [Feature inference attack on model predictions in vertical federated learning](https://arxiv.org/pdf/2010.10152.pdf). In Proceedings of the IEEE International Conference on Data Engineering (ICDE), 2021.
-- Pan Zhou, Qian Lin, Dumitrel Loghin, Beng Chin Ooi, Yuncheng Wu, Hongfang Yu. [Communication-efficient decentralized machine learning over heterogeneous networks](https://arxiv.org/pdf/2009.05766.pdf). In Proceedings of the IEEE International Conference on Data Engineering (ICDE), 2021.
+- Yuncheng Wu, Tien Tuan Anh Dinh, Guoyu Hu, Meihui Zhang, Yeow Meng Chee, Beng Chin Ooi. [Serverless Data Science - Are We There Yet? A Case Study of Model Serving](https://arxiv.org/pdf/2103.02958.pdf). In ACM Special Interest Group in Management Of Data (SIGMOD), 2022: 1866-1875.
+- Xinjian Luo, Xiaokui Xiao, Yuncheng Wu, Juncheng Liu, Beng Chin Ooi. [A Fusion-Denoising Attack on InstaHide with Data Augmentation](https://arxiv.org/pdf/2105.07754.pdf). In AAAI Conference on Artificial Intelligence (AAAI), 2022: 1899-1907.
+- Xinjian Luo, Yuncheng Wu*, Xiaokui Xiao, Beng Chin Ooi. [Feature inference attack on model predictions in vertical federated learning](https://arxiv.org/pdf/2010.10152.pdf). In Proceedings of the IEEE International Conference on Data Engineering (ICDE), 2021: 181-192.
+- Pan Zhou, Qian Lin, Dumitrel Loghin, Beng Chin Ooi, Yuncheng Wu, Hongfang Yu. [Communication-efficient decentralized machine learning over heterogeneous networks](https://arxiv.org/pdf/2009.05766.pdf). In Proceedings of the IEEE International Conference on Data Engineering (ICDE), 2021: 384-395.
 - Yuncheng Wu, Shaofeng Cai, Xiaokui Xiao, Gang Chen, Beng Chin Ooi. [Privacy preserving vertical federated learning for tree-based models](http://www.vldb.org/pvldb/vol13/p2090-wu.pdf). In Proceedings of the VLDB Endowment (PVLDB), 2020: 13(11): 2090-2103.
 - Wenjuan Liang, Hong Chen, Yuncheng Wu, Cuiping Li. [Differentially private frequent itemset mining against incremental updates](https://link.springer.com/chapter/10.1007/978-3-030-41579-2_38). In International Conference on Information and Communications Security (ICICS), 2019: 649-667.
 - Ruoyang Guo, Bo Qin, Yuncheng Wu, Ruixuan Liu, Hong Chen, Cuiping Li. [MixGeo: efficient secure range queries on encrypted dense spatial data in the cloud](https://dl.acm.org/doi/10.1145/3326285.3329064). In IEEE/ACM International Symposium on Quality of Service (IWQoS), 2019: 29:1-29:10.
@@ -59,7 +59,7 @@ I obtained my PhD degree in Computer Science from Renmin University of China (RU
 - Invited reviewer for IEEE Transactions on Knowledge and Data Engineering (TKDE).
 - Invited reviewer for ACM Transactions on Data Science (TDS)
 - Invited reviewer for Chinese Journal of Computers (CJC)
-- External reviewer for VLDB, EDBT, ICDCS, CIKM, DASFAA, WAIM, NDBC, BigData
+- External reviewer for SIGMOD, VLDB, EDBT, ICDCS, CIKM, DASFAA, WAIM, NDBC, BigData
 
 ## Invited Talks
 
