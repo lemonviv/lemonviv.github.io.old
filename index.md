@@ -48,6 +48,7 @@ I obtained my PhD degree in Computer Science from Renmin University of China (RU
 
 ## Teaching
 
+- Co-Lecturer of CS6203 in SoC, NUS
 - Teaching Assistant of CS6203 in SoC, NUS
 - Counselor Assisitant of Software Engineering Class 4, SWUST
 
