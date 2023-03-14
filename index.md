@@ -58,6 +58,8 @@ I obtained my PhD degree in Computer Science from Renmin University of China (RU
 - Program committee member of VLDB 2024.
 - Program committee member of VLDB 2023, ICDE 2023, EDBT 2023.
 - Program committee member of VLDB 2022, ICDE 2022.
+- Demonstration Co-chair of VLDB 2024.
+- Workshop Co-chair of BigComp 2023.
 - Invited reviewer for Transactions on Information Forensics & Security.
 - Invited reviewer for IEEE Network.
 - Invited reviewer for Big Data Research.
