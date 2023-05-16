@@ -14,6 +14,7 @@ I obtained my PhD degree in Computer Science from Renmin University of China (RU
 ## Selected Publications
 
 ### Selected Conference Publications (* represents corresponding author)
+- Yuncheng Wu, Naili Xing, Gang Chen, Tien Tuan Anh Dinh, Zhaojing Luo, Beng Chin Ooi, Xiaokui Xiao, Meihui Zhang. Falcon: A Privacy-Preserving and Interpretable Vertical Federated Learning System. In Proceedings of the VLDB Endowment (PVLDB), 2023. (Accepted).
 - Fei Xiao, Yuncheng Wu, Meihui Zhang, Gang Chen, Beng Chin Ooi. MINT: Detecting Fraudulent Behaviors from Time-series Relational Data. In Proceedings of the VLDB Endowment (PVLDB), 2023. (Accepted).
 - Yatong Wang, Yuncheng Wu*, Xincheng Chen, Gang Feng, Beng Chin Ooi. Incentive-Aware Decentralized Data Collaboration. In ACM Special Interest Group in Management Of Data (SIGMOD), 2023. (Accepted).
 - Rui Fu, Yuncheng Wu, Quanqing Xu, Meihui Zhang. FEAST: A Communication-efficient Federated Feature Selection Framework for Relational Data. In ACM Special Interest Group in Management Of Data (SIGMOD), 2023. (Accepted).
