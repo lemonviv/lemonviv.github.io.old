@@ -7,14 +7,15 @@
   </div>
 </div>
 
-I am currently a research assistant professor in School of Computing (SoC), National University of Singapore (NUS). I am working in the Singapore Blockchain Innovation Programme (SBIP). I am part of the [Database Systems Research Group](https://www.comp.nus.edu.sg/~dbsystem/), working with [Prof. Beng Chin Ooi](https://www.comp.nus.edu.sg/~ooibc/) and [Prof. Xiaokui Xiao](https://www.comp.nus.edu.sg/~xiaoxk/). My research interests include federated learning, data security and privacy, decentralized digital identiy.
+I am currently a research assistant professor in School of Computing (SoC), National University of Singapore (NUS). I am working in the Singapore Blockchain Innovation Programme (SBIP). I am part of the [Database Systems Research Group](https://www.comp.nus.edu.sg/~dbsystem/), working with [Prof. Beng Chin Ooi](https://www.comp.nus.edu.sg/~ooibc/) and [Prof. Xiaokui Xiao](https://www.comp.nus.edu.sg/~xiaoxk/). My research interests include federated learning, data security and privacy, and decentralized digital identiy.
 
 I obtained my PhD degree in Computer Science from Renmin University of China (RUC) in 2018, under the supervision of [Prof. Hong Chen](http://info.ruc.edu.cn/academic_professor.php?teacher_id=56). I was a visiting PhD student in Simon Fraser University (SFU), supervised by [Prof. Ke Wang](https://www.cs.sfu.ca/~wangk/). I received my Master's degree from Nanjing University of Science and Technology (NJUST), advised by [Prof. Yongli Wang](https://cs.njust.edu.cn/e4/15/c1730a189461/page.htm), and Bachelor's degree from Southwest University of Science and Technology (SWUST). I also worked in Ant Financial as a senior developer and 724 Research Institute of China Shipbuilding Industry Corporation as a software engineer. 
 
 ## Selected Publications
 
 ### Selected Conference Publications (* represents corresponding author)
-- **Yuncheng Wu**, Naili Xing, Gang Chen, Tien Tuan Anh Dinh, Zhaojing Luo, Beng Chin Ooi, Xiaokui Xiao, Meihui Zhang. Falcon: A Privacy-Preserving and Interpretable Vertical Federated Learning System. In Proceedings of the VLDB Endowment (PVLDB), 2023: 16(10): 2471-2484.
+- Zhaoxuan Ji, Zhongle Xie, **Yuncheng Wu**, Meihui Zhang. LBSC: A Cost-aware Caching Framework for Cloud Databases. In Proceedings of the IEEE International Conference on Data Engineering (ICDE). (Accepted).
+-  **Yuncheng Wu**, Naili Xing, Gang Chen, Tien Tuan Anh Dinh, Zhaojing Luo, Beng Chin Ooi, Xiaokui Xiao, Meihui Zhang. Falcon: A Privacy-Preserving and Interpretable Vertical Federated Learning System. In Proceedings of the VLDB Endowment (PVLDB), 2023: 16(10): 2471-2484.
 - Fei Xiao, **Yuncheng Wu\***, Meihui Zhang, Gang Chen, Beng Chin Ooi. MINT: Detecting Fraudulent Behaviors from Time-series Relational Data. In Proceedings of the VLDB Endowment (PVLDB), 2023: 16(12): 3610-3623.
 - Yatong Wang, **Yuncheng Wu\***, Xincheng Chen, Gang Feng, Beng Chin Ooi. [Incentive-Aware Decentralized Data Collaboration](https://dl.acm.org/doi/pdf/10.1145/3589303). In ACM Special Interest Group in Management Of Data (SIGMOD), 2023, 158:1-158:27.
 - Rui Fu, **Yuncheng Wu**, Quanqing Xu, Meihui Zhang. [FEAST: A Communication-efficient Federated Feature Selection Framework for Relational Data](https://dl.acm.org/doi/abs/10.1145/3588961). In ACM Special Interest Group in Management Of Data (SIGMOD), 2023, 107:1-107:28.
