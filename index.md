@@ -14,6 +14,7 @@ I obtained my PhD degree in Computer Science from Renmin University of China (RU
 ## Selected Publications
 
 ### Selected Conference Publications (* represents corresponding author)
+- Yangfan Jiang, Xinjian Luo, **Yuncheng Wu**, Xiaokui Xiao, Beng Chin Ooi. Protecting Label Distribution in Cross-Silo Federated Learning. In IEEE Symposium on Security and Privacy (SP), 2024. (Accepted).
 - Zhaoxuan Ji, Zhongle Xie, **Yuncheng Wu**, Meihui Zhang. LBSC: A Cost-aware Caching Framework for Cloud Databases. In Proceedings of the IEEE International Conference on Data Engineering (ICDE), 2024. (Accepted).
 -  **Yuncheng Wu**, Naili Xing, Gang Chen, Tien Tuan Anh Dinh, Zhaojing Luo, Beng Chin Ooi, Xiaokui Xiao, Meihui Zhang. Falcon: A Privacy-Preserving and Interpretable Vertical Federated Learning System. In Proceedings of the VLDB Endowment (PVLDB), 2023: 16(10): 2471-2484.
 - Fei Xiao, **Yuncheng Wu\***, Meihui Zhang, Gang Chen, Beng Chin Ooi. MINT: Detecting Fraudulent Behaviors from Time-series Relational Data. In Proceedings of the VLDB Endowment (PVLDB), 2023: 16(12): 3610-3623.
