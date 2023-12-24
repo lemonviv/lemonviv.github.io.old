@@ -38,6 +38,7 @@ I obtained my PhD degree in Computer Science from Renmin University of China (RU
 - Hui Peng, Xiaoying Zhang, Hong Chen, **Yuncheng Wu**, Yao Wu, Juru Zeng. [Enable privacy preservation and result verification for top-k query in two-tired sensor networks](https://ieeexplore.ieee.org/document/7345327). In IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom), 2015: 555-562.
   
 ### Selected Journal Publications
+- Yangfan Jiang, Xinjian Luo, **Yuncheng Wu**, Xiaochen Zhu, Xiaokui Xiao, Beng Chin Ooi. On Data Distribution Leakage in Cross-Silo Federated Learning. In IEEE Transactions on Knowledge and Data Engineering (TKDE), 2024. (Accepted).
 - Ruoyang Guo, Bo Qin, **Yuncheng Wu**, Ruixuan Liu, Hong Chen, Cuiping Li. [LuxGeo: Efficient and Secure Enhanced Geometric Range Queries](https://ieeexplore.ieee.org/document/9477110). In IEEE Transactions on Knowledge and Data Engineering (TKDE), 2023, 35(2): 1775-1790.
 - Ruoyang Guo, Bo Qin, **Yuncheng Wu**, Hong Chen, Cuiping Li. [Search geometric ranges efficiently as keywords over encrypted spatial data](https://www.sciencedirect.com/science/article/pii/S2667295222000101). In High-Confidence Computing, 2022.
 - **Yuncheng Wu**, Ke Wang, Ruoyang Guo, Zhilin Zhang, Dan Zhao, Hong Chen, Cuiping Li. [Enhanced privacy preserving group nearest neighbor search](https://ieeexplore.ieee.org/document/8770158). In IEEE Transactions on Knowledge and Data Engineering (TKDE), 2021: 33(2), 459-473.
